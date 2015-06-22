@@ -1,7 +1,7 @@
 PODS:
   - Expecta (1.0.0)
   - Specta (1.0.2)
-  - TestingCocoapod (0.1.0)
+  - TestingCocoapod (0.0.1)
 
 DEPENDENCIES:
   - Expecta
@@ -15,6 +15,6 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Expecta: 32604574add2c46a36f8d2f716b6c5736eb75024
   Specta: 9cec98310dca411f7c7ffd6943552b501622abfe
-  TestingCocoapod: 97db66013107c76f6e9e08c63eea86a3ecea6b12
+  TestingCocoapod: 0352a44689bc7d1fd8cff8492c8db7feb4a673a4
 
 COCOAPODS: 0.37.2
