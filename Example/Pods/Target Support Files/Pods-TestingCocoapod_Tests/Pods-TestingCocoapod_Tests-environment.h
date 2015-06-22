@@ -21,6 +21,6 @@
 // TestingCocoapod
 #define COCOAPODS_POD_AVAILABLE_TestingCocoapod
 #define COCOAPODS_VERSION_MAJOR_TestingCocoapod 0
-#define COCOAPODS_VERSION_MINOR_TestingCocoapod 1
-#define COCOAPODS_VERSION_PATCH_TestingCocoapod 0
+#define COCOAPODS_VERSION_MINOR_TestingCocoapod 0
+#define COCOAPODS_VERSION_PATCH_TestingCocoapod 1
 
