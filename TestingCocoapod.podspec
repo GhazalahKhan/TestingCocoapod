@@ -16,7 +16,7 @@ s.author             = { "GhazalahKhan" => "ghazalah.khan@kayosys.com" }
 s.platform     = :ios
 
 
-s.source       = { :git => "https://github.com/GhazalahKhan/TestingCocoapod", :tag => "0.0.1" }
+s.source       = { :git => "https://github.com/GhazalahKhan/TestingCocoapod.git", :tag => "0.0.1" }
 
 
 
