@@ -20,8 +20,8 @@ s.source       = { :git => "https://github.com/GhazalahKhan/TestingCocoapod", :t
 
 
 
-s.source_files  = 'Classes', 'Classes/*.{h,m}'
-s.exclude_files = "Classes/Exclude"
+s.source_files  = 'Pod/Classes/*{h,m,a}'
+
 
 
 end
